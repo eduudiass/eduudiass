@@ -52,12 +52,7 @@ Sistema completo de gestão para frota de 13 veículos com 7 módulos integrados
 
 ---
 
-### ⚽ Football Analytics *(em construção)*
-Análise completa de dados de futebol passando por SQL → Power BI → Python → Machine Learning.
 
-`SQL` `Power BI` `Python` `ML`
-
----
 
 ## 📊 Estatísticas
 
