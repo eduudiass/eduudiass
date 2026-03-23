@@ -1,40 +1,76 @@
+# Hi, I'm Eduardo Dias 👋
+
+A **Data Science and Artificial Intelligence** student at PUCRS, passionate about turning data into decisions.
+
+Currently focused on SQL, Power BI, and Python — building real-world projects and preparing for the data market.
+
+---
+
+## 🛠 Technologies & Tools
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Data & Analysis**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+**Visualization**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 [World Cup Dashboard](https://github.com/eduudiass/copa-do-mundo-dashboard)
+An interactive dashboard analyzing goals by edition, stage, minute, and country across all FIFA World Cups.
+
+`Python` `Pandas` `Streamlit` `Plotly`
+
+---
+
+### 🚗 Fleet Management — Advanced Excel
+A complete management system for a fleet of 13 vehicles, featuring 7 integrated modules and automated KPI dashboards.
+
+`Advanced Excel` `Power BI` `Dynamic Formulas`
+
+---
+
+## 📊 Stats
+
 <div align="center">
 
-# 👨‍💻 Olá, sou **Eduardo Dias**  
-**Data Science & IA | PUCRS**  
-*Transformando dados em decisões de negócio 🚀*
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduudiass&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=2E75B6&text_color=444444)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardodias)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo@email.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardodias)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduudiass&layout=compact&theme=default&hide_border=true&title_color=1F3864&text_color=444444)
 
-<img src="foto-perfil.jpg" width="220" style="border-radius:50%">
+</div>
 
-**🎓** Estudante de Data Science & Inteligência Artificial - PUCRS  
-**💼** Buscando: Data Analyst Jr / BI Developer (Manaus ou remoto)  
-**🔥** Projetos: Dashboards Power BI, Python/Pandas, SQL Analytics  
-**📍** Localização: Manaus, AM
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white)
+## 📬 Contact
 
-[![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&hide_border=true)]
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula&hide_border=true)]
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dracula&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardodiasds)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/eduudiass)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eduardomachadodiasfilho7@gmail.com)
 
-🔹 **Dashboard Power BI Vendas** - KPIs + Forecasting  
-🔹 **Análise Exploratória Python** - Pandas + Visualizações  
-🔹 **ETL SQL Performance** - Banco de dados real  
-🔹 **Automação Relatórios BI** - Power BI + Python  
+---
 
-<img src="https://img.shields.io/badge/🚀-Data%20Analyst%20Jr-blue?style=for-the-badge&logo=data-science&logoColor=white" width="280">
-<img src="https://img.shields.io/badge/💼-BI%20Developer-green?style=for-the-badge&logo=microsoft&logoColor=white" width="240">
-
-**📩 Me chama no LinkedIn! Portfolio ativo e atualizado 🚀**
-
-![Visitors](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=teal&style=flat-square)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=eduudiass&color=2E75B6&style=flat&label=Profile+Views" />
 </div>
