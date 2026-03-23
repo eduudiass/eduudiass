@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=4A90E2&size=20&center=true&vCenter=true&width=500&lines=SQL+%7C+Python+%7C+Power+BI;Data+Analysis+%26+Visualization;Building+real-world+projects" />
 </p>
----
 
 ## 🛠 Technologies & Tools
 
