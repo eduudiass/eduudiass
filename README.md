@@ -55,9 +55,11 @@ A complete management system for a fleet of 13 vehicles, featuring 7 integrated 
 
 <div align="center">
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduudiass&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=2E75B6&text_color=444444)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduudiass&show_icons=true&theme=transparent&hide_border=true&title_color=4A90E2&icon_color=4A90E2&text_color=9aa0a6" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduudiass&layout=compact&theme=default&hide_border=true&title_color=1F3864&text_color=444444)
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduudiass&layout=compact&theme=transparent&hide_border=true&title_color=4A90E2&text_color=9aa0a6" />
+
+<img height="160em" src="https://streak-stats.demolab.com?user=eduudiass&theme=transparent&hide_border=true&ring=4A90E2&fire=4A90E2&currStreakLabel=9aa0a6" />
 
 </div>
 
