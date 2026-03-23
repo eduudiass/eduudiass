@@ -1,9 +1,16 @@
-# Hi, I'm Eduardo Dias 👋
+<h1 align="center">Hi, I'm Eduardo Dias 👋</h1>
 
-A **Data Science and Artificial Intelligence** student at PUCRS, passionate about turning data into decisions.
+<p align="center">
+  <strong>Data Science & AI Student</strong> at PUCRS
+</p>
 
-Currently focused on SQL, Power BI, and Python — building real-world projects and preparing for the data market.
+<p align="center">
+  I turn raw data into insights, dashboards, and decisions.
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=4A90E2&size=20&center=true&vCenter=true&width=500&lines=SQL+%7C+Python+%7C+Power+BI;Data+Analysis+%26+Visualization;Building+real-world+projects" />
+</p>
 ---
 
 ## 🛠 Technologies & Tools
