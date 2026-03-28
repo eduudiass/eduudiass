@@ -40,8 +40,8 @@
 
 ## 🚀 Featured Projects
 
-### 🚗 [FleetManager — Dashboard de Gestão de Frota](https://eduudiass.github.io/dashboard-frota-eduardo/)
-Dashboard web para gestão de uma frota de 12 veículos de aluguel. Controle de receitas, manutenções, gastos fixos, compras e vendas com gráficos interativos. Dados puxados automaticamente de uma planilha Excel via script Python.
+### 🚗 [FleetManager — Gestão de Frota](https://eduudiass.github.io/dashboard-frota-eduardo/)
+Sistema completo de gestão para uma frota de 12 veículos de aluguel. Planilha Excel com 7 módulos integrados + dashboard web com gráficos interativos, KPIs de receita, manutenções, gastos fixos, compras e vendas. Atualização automática via script Python.
 
 `Excel` `Python`
 
@@ -51,13 +51,6 @@ Dashboard web para gestão de uma frota de 12 veículos de aluguel. Controle de 
 An interactive dashboard analyzing goals by edition, stage, minute, and country across all FIFA World Cups.
 
 `Python` `Pandas` `Streamlit` `Plotly`
-
----
-
-### 🚗 Fleet Management — Advanced Excel
-A complete management system for a fleet of 13 vehicles, featuring 7 integrated modules and automated KPI dashboards.
-
-`Advanced Excel` `Dynamic Formulas`
 
 ---
 
