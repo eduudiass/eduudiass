@@ -1,13 +1,10 @@
 <h1 align="center">Hi, I'm Eduardo Dias 👋</h1>
-
 <p align="center">
   <strong>Data Science & AI Student</strong> at PUCRS
 </p>
-
 <p align="center">
   I turn raw data into insights, dashboards, and decisions.
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=4A90E2&size=20&center=true&vCenter=true&width=500&lines=SQL+%7C+Python+%7C+Power+BI;Data+Analysis+%26+Visualization;Building+real-world+projects" />
 </p>
@@ -43,6 +40,13 @@
 
 ## 🚀 Featured Projects
 
+### 🚗 [FleetManager — Dashboard de Gestão de Frota](https://eduudiass.github.io/dashboard-frota-eduardo/)
+Dashboard web para gestão de uma frota de 12 veículos de aluguel. Controle de receitas, manutenções, gastos fixos, compras e vendas com gráficos interativos. Dados puxados automaticamente de uma planilha Excel via script Python.
+
+`Excel` `Python`
+
+---
+
 ### 🌍 [World Cup Dashboard](https://github.com/eduudiass/copa-do-mundo-dashboard)
 An interactive dashboard analyzing goals by edition, stage, minute, and country across all FIFA World Cups.
 
@@ -53,20 +57,16 @@ An interactive dashboard analyzing goals by edition, stage, minute, and country 
 ### 🚗 Fleet Management — Advanced Excel
 A complete management system for a fleet of 13 vehicles, featuring 7 integrated modules and automated KPI dashboards.
 
-`Advanced Excel` `Power BI` `Dynamic Formulas`
+`Advanced Excel` `Dynamic Formulas`
 
 ---
 
 ## 📊 Stats
 
 <div align="center">
-
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduudiass&show_icons=true&theme=transparent&hide_border=true&title_color=4A90E2&icon_color=4A90E2&text_color=9aa0a6" />
-
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduudiass&layout=compact&theme=transparent&hide_border=true&title_color=4A90E2&text_color=9aa0a6" />
-
 <img height="160em" src="https://streak-stats.demolab.com?user=eduudiass&theme=transparent&hide_border=true&ring=4A90E2&fire=4A90E2&currStreakLabel=9aa0a6" />
-
 </div>
 
 ---
